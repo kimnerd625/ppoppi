@@ -32,7 +32,7 @@ const Container = styled.View`
     height: auto;
     padding: 10px;
     marginTop: 20px;
-    borderRadius: 10%;
+    borderRadius: 10px;
     backgroundColor: royalblue;
 `;
 
